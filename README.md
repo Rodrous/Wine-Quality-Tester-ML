@@ -1,6 +1,6 @@
-																	Wine Quality Predictor 
+
 			
-	Introduction 
+Introduction 
 	
 Wine is a beverage made from fermented grape and other fruit juices with lower 
 amounts of alcohol content. Quality of wine is graded based on the taste of wine 
@@ -9,7 +9,8 @@ includes different parameters like fixed acidity, volatile acidity, citric acid,
 sugar, chlorides, free sulphur dioxide, total sulphur dioxide, density, pH, sulphates, 
 alcohol and quality. 
 
-	Objective: 
+Objective: 
+
 Our main objective is to predict the wine quality using machine learning.A large 
 dataset is considered and wine quality is modelled to analyse the quality of wine 
 through different parameters like fixed acidity, volatile acidity etc. All these 
@@ -18,7 +19,7 @@ forest classifier algorithm which will helps to rate the wine on scale 1 - 10 or
 good or 0-1. 
 
 
-	Data-Description: 
+Data-Description: 
 
 The dataset used is Wine Quality Data set from UCI Machine Learning Repository. 
 https://archive.ics.uci.edu/ml/datasets/Wine+Quality. 
